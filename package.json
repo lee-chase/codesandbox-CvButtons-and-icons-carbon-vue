@@ -1,0 +1,14 @@
+{
+  "name": "cvbuttons-and-icons-carbon-vue",
+  "version": "1.0.0",
+  "description": "Example on using v-runtime-template in order to interpret at runtime a Vue.js template",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/vvo2mx520l",
+  "main": "index.js",
+  "dependencies": {
+    "@carbon/icons-vue": "10.14.0",
+    "@carbon/vue": "2.30.0-canary.1",
+    "carbon-components": "10.16.0",
+    "vue": "2.6.11"
+  }
+}
